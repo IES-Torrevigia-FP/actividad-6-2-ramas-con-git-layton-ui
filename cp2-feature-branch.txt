@@ -1,0 +1,12 @@
+mint@layton-mint-VirtualBox:~/dev/actividad-6-2-ramas-con-git-layton-ui$ git branch
+* feature-mensaje-bienvenida
+  main
+mint@layton-mint-VirtualBox:~/dev/actividad-6-2-ramas-con-git-layton-ui$ git log --oneline
+864bb16 (HEAD -> feature-mensaje-bienvenida) mensaje bienvenida en rama feature
+3f45703 (main) version inicial
+cbffbe5 (origin/main, origin/HEAD) add deadline
+a085ca8 Initial commit
+
+===
+
+Hemos creado una rama nueva, llamada feature-mensaje-bienvenida. En ella, hemos cambiado el documento de texto app.txt, añadiéndole un mensaje de bienvenida.
