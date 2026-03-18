@@ -1,0 +1,17 @@
+mint@layton-mint-VirtualBox:~/dev/actividad-6-2-ramas-con-git-layton-ui$ git branch
+* feature-licencia
+  feature-mensaje-bienvenida
+  main
+mint@layton-mint-VirtualBox:~/dev/actividad-6-2-ramas-con-git-layton-ui$ git log --oneline
+71831e0 (HEAD -> feature-licencia) añadir licencia
+3f45703 (main) version inicial
+cbffbe5 (origin/main, origin/HEAD) add deadline
+a085ca8 Initial commit
+
+===
+
+actualmente existen 3 ramas, incluida main.
+
+main: rama principal, versión estable
+feature-mensaje-bienvenida: mensaje de bienvenida en app.txt
+feature-licencia: documento LICENSE.txt
